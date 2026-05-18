@@ -1,0 +1,23 @@
+{
+  "name": "nami-fish-audio-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namigame/nami-fish-audio-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/namigame/nami-fish-audio-api/issues"
+  },
+  "homepage": "https://github.com/namigame/nami-fish-audio-api#readme",
+  "description": "",
+  "dependencies": {
+    "@msgpack/msgpack": "^3.1.3"
+  }
+}
